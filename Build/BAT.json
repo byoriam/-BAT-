@@ -1,0 +1,13 @@
+{
+"companyName": "Vergeiner Bernhard",
+"productName": "[BAT including title 1555]",
+"dataUrl": "BAT.data.unityweb",
+"wasmCodeUrl": "BAT.wasm.code.unityweb",
+"wasmFrameworkUrl": "BAT.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
