@@ -1,9 +1,9 @@
 {
 "companyName": "Vergeiner Bernhard",
 "productName": "[BAT including title 1800]",
-"dataUrl": "4f0ff7039e91d819ca5737161a234132.unityweb",
-"wasmCodeUrl": "2e0548f3745a5a20e1f191383a608ee5.unityweb",
-"wasmFrameworkUrl": "82e6351be78c97a700377d2eb1863dd7.unityweb",
+"dataUrl": "631b886b2bcdc8f3a4ca6442f3628bbd.unityweb",
+"wasmCodeUrl": "3f4b0458e9de8727b4dd1b338b76ce46.unityweb",
+"wasmFrameworkUrl": "16a0b221a6d6cc2a24ad21865a9628e9.unityweb",
 "TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
